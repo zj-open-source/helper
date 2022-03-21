@@ -12,7 +12,7 @@ import (
 	"github.com/davecgh/go-spew/spew"
 	"github.com/go-courier/envconf"
 	"github.com/stretchr/testify/require"
-	"github.com/zj-open-source/tools/datatypes"
+	"github.com/zj-open-source/helper/datatypes"
 )
 
 func TestS3Endpoint(t *testing.T) {

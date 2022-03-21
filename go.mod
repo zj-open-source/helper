@@ -1,4 +1,4 @@
-module github.com/zj-open-source/tools
+module github.com/zj-open-source/helper
 
 go 1.17
 

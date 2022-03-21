@@ -8,7 +8,7 @@ import (
 
 	"github.com/go-courier/metax"
 	"github.com/go-courier/reflectx"
-	"github.com/zj-open-source/tools/kvstorage"
+	"github.com/zj-open-source/helper/kvstorage"
 )
 
 var _ kvstorage.KVStorage = (*MemoryKVStorage)(nil)

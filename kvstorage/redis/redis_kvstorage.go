@@ -7,8 +7,8 @@ import (
 
 	"github.com/go-courier/metax"
 	"github.com/gomodule/redigo/redis"
-	"github.com/zj-open-source/tools/kvstorage"
-	redis1 "github.com/zj-open-source/tools/redis"
+	"github.com/zj-open-source/helper/kvstorage"
+	redis1 "github.com/zj-open-source/helper/redis"
 )
 
 var _ kvstorage.KVStorage = (*RedisKVStorage)(nil)

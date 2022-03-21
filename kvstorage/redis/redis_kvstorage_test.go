@@ -5,7 +5,7 @@ import (
 	"time"
 
 	. "github.com/onsi/gomega"
-	redis1 "github.com/zj-open-source/tools/redis"
+	redis1 "github.com/zj-open-source/helper/redis"
 )
 
 var r = &redis1.Redis{

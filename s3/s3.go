@@ -11,7 +11,7 @@ import (
 	"github.com/go-courier/envconf"
 	"github.com/minio/minio-go/v7"
 	"github.com/minio/minio-go/v7/pkg/credentials"
-	"github.com/zj-open-source/tools/datatypes"
+	"github.com/zj-open-source/helper/datatypes"
 )
 
 var (
